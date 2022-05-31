@@ -1,2 +1,2 @@
-bot1: npm run deploy
-bot2: npm run dev
+deploy: npm run deploy
+runbot: npm run dev
